@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shreyaadani/leetcode_practice/tree/master/0014-longest-common-prefix) |
+| [0300-longest-increasing-subsequence](https://github.com/shreyaadani/leetcode_practice/tree/master/0300-longest-increasing-subsequence) |
 | [2239-find-closest-number-to-zero](https://github.com/shreyaadani/leetcode_practice/tree/master/2239-find-closest-number-to-zero) |
 ## Two Pointers
 |  |
@@ -21,6 +22,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/shreyaadani/leetcode_practice/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/shreyaadani/leetcode_practice/tree/master/0392-is-subsequence) |
 ## Trie
 |  |
@@ -34,4 +36,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shreyaadani/leetcode_practice/tree/master/0003-longest-substring-without-repeating-characters) |
+## Binary Search
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/shreyaadani/leetcode_practice/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
