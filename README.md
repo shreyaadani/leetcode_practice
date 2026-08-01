@@ -22,6 +22,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/shreyaadani/leetcode_practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/shreyaadani/leetcode_practice/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/shreyaadani/leetcode_practice/tree/master/0392-is-subsequence) |
 ## Trie
@@ -44,6 +45,7 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/shreyaadani/leetcode_practice/tree/master/0102-binary-tree-level-order-traversal) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/shreyaadani/leetcode_practice/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -52,4 +54,9 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/shreyaadani/leetcode_practice/tree/master/0102-binary-tree-level-order-traversal) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/shreyaadani/leetcode_practice/tree/master/0124-binary-tree-maximum-path-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/shreyaadani/leetcode_practice/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
