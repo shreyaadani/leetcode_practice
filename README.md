@@ -50,6 +50,7 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/shreyaadani/leetcode_practice/tree/master/0102-binary-tree-level-order-traversal) |
+| [0547-number-of-provinces](https://github.com/shreyaadani/leetcode_practice/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
 | ------- |
@@ -59,4 +60,13 @@
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shreyaadani/leetcode_practice/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0547-number-of-provinces](https://github.com/shreyaadani/leetcode_practice/tree/master/0547-number-of-provinces) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/shreyaadani/leetcode_practice/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/shreyaadani/leetcode_practice/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
