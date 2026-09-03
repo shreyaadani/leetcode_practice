@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/shreyaadani/leetcode_practice/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/shreyaadani/leetcode_practice/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/shreyaadani/leetcode_practice/tree/master/0014-longest-common-prefix) |
+| [0056-merge-intervals](https://github.com/shreyaadani/leetcode_practice/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreyaadani/leetcode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0200-number-of-islands](https://github.com/shreyaadani/leetcode_practice/tree/master/0200-number-of-islands) |
 | [0300-longest-increasing-subsequence](https://github.com/shreyaadani/leetcode_practice/tree/master/0300-longest-increasing-subsequence) |
@@ -106,4 +107,12 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shreyaadani/leetcode_practice/tree/master/0011-container-with-most-water) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/shreyaadani/leetcode_practice/tree/master/0056-merge-intervals) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/shreyaadani/leetcode_practice/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
