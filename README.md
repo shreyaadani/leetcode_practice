@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shreyaadani/leetcode_practice/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/shreyaadani/leetcode_practice/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/shreyaadani/leetcode_practice/tree/master/0014-longest-common-prefix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreyaadani/leetcode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0200-number-of-islands](https://github.com/shreyaadani/leetcode_practice/tree/master/0200-number-of-islands) |
@@ -15,6 +16,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shreyaadani/leetcode_practice/tree/master/0011-container-with-most-water) |
 | [0392-is-subsequence](https://github.com/shreyaadani/leetcode_practice/tree/master/0392-is-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/shreyaadani/leetcode_practice/tree/master/1768-merge-strings-alternately) |
 ## String
@@ -100,4 +102,8 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/shreyaadani/leetcode_practice/tree/master/0146-lru-cache) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/shreyaadani/leetcode_practice/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
