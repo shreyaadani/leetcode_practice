@@ -94,6 +94,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shreyaadani/leetcode_practice/tree/master/0002-add-two-numbers) |
 | [0146-lru-cache](https://github.com/shreyaadani/leetcode_practice/tree/master/0146-lru-cache) |
 ## Design
 |  |
@@ -115,4 +116,12 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/shreyaadani/leetcode_practice/tree/master/0056-merge-intervals) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/shreyaadani/leetcode_practice/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/shreyaadani/leetcode_practice/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
