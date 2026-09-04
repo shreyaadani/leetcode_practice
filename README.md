@@ -9,6 +9,7 @@
 | [0014-longest-common-prefix](https://github.com/shreyaadani/leetcode_practice/tree/master/0014-longest-common-prefix) |
 | [0056-merge-intervals](https://github.com/shreyaadani/leetcode_practice/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreyaadani/leetcode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/shreyaadani/leetcode_practice/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/shreyaadani/leetcode_practice/tree/master/0200-number-of-islands) |
 | [0300-longest-increasing-subsequence](https://github.com/shreyaadani/leetcode_practice/tree/master/0300-longest-increasing-subsequence) |
 | [0733-flood-fill](https://github.com/shreyaadani/leetcode_practice/tree/master/0733-flood-fill) |
@@ -45,6 +46,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/shreyaadani/leetcode_practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0138-copy-list-with-random-pointer](https://github.com/shreyaadani/leetcode_practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/shreyaadani/leetcode_practice/tree/master/0146-lru-cache) |
+| [0169-majority-element](https://github.com/shreyaadani/leetcode_practice/tree/master/0169-majority-element) |
 ## Sliding Window
 |  |
 | ------- |
@@ -117,6 +119,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/shreyaadani/leetcode_practice/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/shreyaadani/leetcode_practice/tree/master/0169-majority-element) |
 ## Quicksort
 |  |
 | ------- |
@@ -137,4 +140,16 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/shreyaadani/leetcode_practice/tree/master/0207-course-schedule) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shreyaadani/leetcode_practice/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shreyaadani/leetcode_practice/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shreyaadani/leetcode_practice/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
