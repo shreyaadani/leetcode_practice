@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/shreyaadani/leetcode_practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/shreyaadani/leetcode_practice/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/shreyaadani/leetcode_practice/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/shreyaadani/leetcode_practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shreyaadani/leetcode_practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0056-merge-intervals](https://github.com/shreyaadani/leetcode_practice/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/shreyaadani/leetcode_practice/tree/master/0088-merge-sorted-array) |
@@ -24,6 +25,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shreyaadani/leetcode_practice/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/shreyaadani/leetcode_practice/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/shreyaadani/leetcode_practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/shreyaadani/leetcode_practice/tree/master/0088-merge-sorted-array) |
 | [0392-is-subsequence](https://github.com/shreyaadani/leetcode_practice/tree/master/0392-is-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/shreyaadani/leetcode_practice/tree/master/1768-merge-strings-alternately) |
