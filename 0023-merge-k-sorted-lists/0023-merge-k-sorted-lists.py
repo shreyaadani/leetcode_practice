@@ -18,8 +18,13 @@ class Solution:
                 l2.next = mergelist(l2.next,l1)
                 return l2     
 
-        result = None
-        for l in lists:
-            result = mergelist(result, l)
-        return result         
+        if not lists:
+            return None
+
+        interval = 1
+        while interval < len(lists):
+            for i in range(0,len(lists)-interval,interval*2):
+                lists[i] = mergelist(lists[i], lists[i + interval])
+            interval *= 2
+        return lists[0]                  
 
