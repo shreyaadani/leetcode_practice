@@ -18,6 +18,7 @@
 | [0169-majority-element](https://github.com/shreyaadani/leetcode_practice/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/shreyaadani/leetcode_practice/tree/master/0200-number-of-islands) |
 | [0300-longest-increasing-subsequence](https://github.com/shreyaadani/leetcode_practice/tree/master/0300-longest-increasing-subsequence) |
+| [0347-top-k-frequent-elements](https://github.com/shreyaadani/leetcode_practice/tree/master/0347-top-k-frequent-elements) |
 | [0733-flood-fill](https://github.com/shreyaadani/leetcode_practice/tree/master/0733-flood-fill) |
 | [0875-koko-eating-bananas](https://github.com/shreyaadani/leetcode_practice/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/shreyaadani/leetcode_practice/tree/master/0904-fruit-into-baskets) |
@@ -63,6 +64,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/shreyaadani/leetcode_practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/shreyaadani/leetcode_practice/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/shreyaadani/leetcode_practice/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/shreyaadani/leetcode_practice/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/shreyaadani/leetcode_practice/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0904-fruit-into-baskets](https://github.com/shreyaadani/leetcode_practice/tree/master/0904-fruit-into-baskets) |
 ## Sliding Window
@@ -146,6 +148,7 @@
 | [0056-merge-intervals](https://github.com/shreyaadani/leetcode_practice/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/shreyaadani/leetcode_practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/shreyaadani/leetcode_practice/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/shreyaadani/leetcode_practice/tree/master/0347-top-k-frequent-elements) |
 ## Quicksort
 |  |
 | ------- |
@@ -175,11 +178,13 @@
 | [0023-merge-k-sorted-lists](https://github.com/shreyaadani/leetcode_practice/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/shreyaadani/leetcode_practice/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/shreyaadani/leetcode_practice/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/shreyaadani/leetcode_practice/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/shreyaadani/leetcode_practice/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shreyaadani/leetcode_practice/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/shreyaadani/leetcode_practice/tree/master/0347-top-k-frequent-elements) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -188,6 +193,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/shreyaadani/leetcode_practice/tree/master/0023-merge-k-sorted-lists) |
+| [0347-top-k-frequent-elements](https://github.com/shreyaadani/leetcode_practice/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
 |  |
 | ------- |
@@ -200,4 +206,12 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shreyaadani/leetcode_practice/tree/master/0005-longest-palindromic-substring) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/shreyaadani/leetcode_practice/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/shreyaadani/leetcode_practice/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
