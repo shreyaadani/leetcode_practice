@@ -19,6 +19,7 @@
 | [0200-number-of-islands](https://github.com/shreyaadani/leetcode_practice/tree/master/0200-number-of-islands) |
 | [0300-longest-increasing-subsequence](https://github.com/shreyaadani/leetcode_practice/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/shreyaadani/leetcode_practice/tree/master/0347-top-k-frequent-elements) |
+| [0643-maximum-average-subarray-i](https://github.com/shreyaadani/leetcode_practice/tree/master/0643-maximum-average-subarray-i) |
 | [0733-flood-fill](https://github.com/shreyaadani/leetcode_practice/tree/master/0733-flood-fill) |
 | [0875-koko-eating-bananas](https://github.com/shreyaadani/leetcode_practice/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/shreyaadani/leetcode_practice/tree/master/0904-fruit-into-baskets) |
@@ -72,6 +73,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shreyaadani/leetcode_practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/shreyaadani/leetcode_practice/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/shreyaadani/leetcode_practice/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/shreyaadani/leetcode_practice/tree/master/0904-fruit-into-baskets) |
 ## Binary Search
 |  |
