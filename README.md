@@ -25,6 +25,7 @@
 | [0733-flood-fill](https://github.com/shreyaadani/leetcode_practice/tree/master/0733-flood-fill) |
 | [0875-koko-eating-bananas](https://github.com/shreyaadani/leetcode_practice/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/shreyaadani/leetcode_practice/tree/master/0904-fruit-into-baskets) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/shreyaadani/leetcode_practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2239-find-closest-number-to-zero](https://github.com/shreyaadani/leetcode_practice/tree/master/2239-find-closest-number-to-zero) |
 ## Two Pointers
 |  |
@@ -86,6 +87,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shreyaadani/leetcode_practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/shreyaadani/leetcode_practice/tree/master/0300-longest-increasing-subsequence) |
 | [0875-koko-eating-bananas](https://github.com/shreyaadani/leetcode_practice/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/shreyaadani/leetcode_practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Tree
 |  |
 | ------- |
