@@ -51,6 +51,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shreyaadani/leetcode_practice/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/shreyaadani/leetcode_practice/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/shreyaadani/leetcode_practice/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreyaadani/leetcode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shreyaadani/leetcode_practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/shreyaadani/leetcode_practice/tree/master/0300-longest-increasing-subsequence) |
@@ -173,6 +174,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/shreyaadani/leetcode_practice/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/shreyaadani/leetcode_practice/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/shreyaadani/leetcode_practice/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
@@ -229,4 +231,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/shreyaadani/leetcode_practice/tree/master/0347-top-k-frequent-elements) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/shreyaadani/leetcode_practice/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
