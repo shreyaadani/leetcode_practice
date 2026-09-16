@@ -156,6 +156,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/shreyaadani/leetcode_practice/tree/master/0023-merge-k-sorted-lists) |
 | [0138-copy-list-with-random-pointer](https://github.com/shreyaadani/leetcode_practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/shreyaadani/leetcode_practice/tree/master/0146-lru-cache) |
+| [0328-odd-even-linked-list](https://github.com/shreyaadani/leetcode_practice/tree/master/0328-odd-even-linked-list) |
 ## Design
 |  |
 | ------- |
