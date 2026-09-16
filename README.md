@@ -21,6 +21,7 @@
 | [0200-number-of-islands](https://github.com/shreyaadani/leetcode_practice/tree/master/0200-number-of-islands) |
 | [0300-longest-increasing-subsequence](https://github.com/shreyaadani/leetcode_practice/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/shreyaadani/leetcode_practice/tree/master/0347-top-k-frequent-elements) |
+| [0410-split-array-largest-sum](https://github.com/shreyaadani/leetcode_practice/tree/master/0410-split-array-largest-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/shreyaadani/leetcode_practice/tree/master/0643-maximum-average-subarray-i) |
 | [0733-flood-fill](https://github.com/shreyaadani/leetcode_practice/tree/master/0733-flood-fill) |
 | [0875-koko-eating-bananas](https://github.com/shreyaadani/leetcode_practice/tree/master/0875-koko-eating-bananas) |
@@ -57,6 +58,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/shreyaadani/leetcode_practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/shreyaadani/leetcode_practice/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/shreyaadani/leetcode_practice/tree/master/0392-is-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/shreyaadani/leetcode_practice/tree/master/0410-split-array-largest-sum) |
 ## Trie
 |  |
 | ------- |
@@ -88,6 +90,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/shreyaadani/leetcode_practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shreyaadani/leetcode_practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/shreyaadani/leetcode_practice/tree/master/0300-longest-increasing-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/shreyaadani/leetcode_practice/tree/master/0410-split-array-largest-sum) |
 | [0875-koko-eating-bananas](https://github.com/shreyaadani/leetcode_practice/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shreyaadani/leetcode_practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Tree
@@ -160,6 +163,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shreyaadani/leetcode_practice/tree/master/0011-container-with-most-water) |
+| [0410-split-array-largest-sum](https://github.com/shreyaadani/leetcode_practice/tree/master/0410-split-array-largest-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -238,4 +242,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/shreyaadani/leetcode_practice/tree/master/0070-climbing-stairs) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/shreyaadani/leetcode_practice/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
