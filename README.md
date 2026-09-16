@@ -25,6 +25,7 @@
 | [0733-flood-fill](https://github.com/shreyaadani/leetcode_practice/tree/master/0733-flood-fill) |
 | [0875-koko-eating-bananas](https://github.com/shreyaadani/leetcode_practice/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/shreyaadani/leetcode_practice/tree/master/0904-fruit-into-baskets) |
+| [0994-rotting-oranges](https://github.com/shreyaadani/leetcode_practice/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shreyaadani/leetcode_practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2239-find-closest-number-to-zero](https://github.com/shreyaadani/leetcode_practice/tree/master/2239-find-closest-number-to-zero) |
 ## Two Pointers
@@ -104,6 +105,7 @@
 | [0207-course-schedule](https://github.com/shreyaadani/leetcode_practice/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/shreyaadani/leetcode_practice/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/shreyaadani/leetcode_practice/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/shreyaadani/leetcode_practice/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
@@ -137,6 +139,7 @@
 | [0130-surrounded-regions](https://github.com/shreyaadani/leetcode_practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shreyaadani/leetcode_practice/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/shreyaadani/leetcode_practice/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/shreyaadani/leetcode_practice/tree/master/0994-rotting-oranges) |
 ## Linked List
 |  |
 | ------- |
