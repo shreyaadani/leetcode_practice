@@ -47,6 +47,7 @@
 | [0005-longest-palindromic-substring](https://github.com/shreyaadani/leetcode_practice/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/shreyaadani/leetcode_practice/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/shreyaadani/leetcode_practice/tree/master/0049-group-anagrams) |
+| [0131-palindrome-partitioning](https://github.com/shreyaadani/leetcode_practice/tree/master/0131-palindrome-partitioning) |
 | [0392-is-subsequence](https://github.com/shreyaadani/leetcode_practice/tree/master/0392-is-subsequence) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/shreyaadani/leetcode_practice/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1768-merge-strings-alternately](https://github.com/shreyaadani/leetcode_practice/tree/master/1768-merge-strings-alternately) |
@@ -58,6 +59,7 @@
 | [0070-climbing-stairs](https://github.com/shreyaadani/leetcode_practice/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreyaadani/leetcode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shreyaadani/leetcode_practice/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/shreyaadani/leetcode_practice/tree/master/0131-palindrome-partitioning) |
 | [0300-longest-increasing-subsequence](https://github.com/shreyaadani/leetcode_practice/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/shreyaadani/leetcode_practice/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/shreyaadani/leetcode_practice/tree/master/0410-split-array-largest-sum) |
@@ -259,4 +261,8 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/shreyaadani/leetcode_practice/tree/master/0098-validate-binary-search-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/shreyaadani/leetcode_practice/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
