@@ -32,6 +32,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shreyaadani/leetcode_practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1052-grumpy-bookstore-owner](https://github.com/shreyaadani/leetcode_practice/tree/master/1052-grumpy-bookstore-owner) |
 | [2239-find-closest-number-to-zero](https://github.com/shreyaadani/leetcode_practice/tree/master/2239-find-closest-number-to-zero) |
+| [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/shreyaadani/leetcode_practice/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 ## Two Pointers
 |  |
 | ------- |
@@ -177,6 +178,7 @@
 | [0011-container-with-most-water](https://github.com/shreyaadani/leetcode_practice/tree/master/0011-container-with-most-water) |
 | [0253-meeting-rooms-ii](https://github.com/shreyaadani/leetcode_practice/tree/master/0253-meeting-rooms-ii) |
 | [0410-split-array-largest-sum](https://github.com/shreyaadani/leetcode_practice/tree/master/0410-split-array-largest-sum) |
+| [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/shreyaadani/leetcode_practice/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 ## Sorting
 |  |
 | ------- |
