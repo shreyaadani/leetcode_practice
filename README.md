@@ -49,6 +49,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/shreyaadani/leetcode_practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/shreyaadani/leetcode_practice/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/shreyaadani/leetcode_practice/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/shreyaadani/leetcode_practice/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/shreyaadani/leetcode_practice/tree/master/0049-group-anagrams) |
 | [0131-palindrome-partitioning](https://github.com/shreyaadani/leetcode_practice/tree/master/0131-palindrome-partitioning) |
 | [0392-is-subsequence](https://github.com/shreyaadani/leetcode_practice/tree/master/0392-is-subsequence) |
@@ -279,4 +280,12 @@
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/shreyaadani/leetcode_practice/tree/master/0131-palindrome-partitioning) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/shreyaadani/leetcode_practice/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/shreyaadani/leetcode_practice/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
