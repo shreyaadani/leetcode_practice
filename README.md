@@ -51,6 +51,7 @@
 | [0014-longest-common-prefix](https://github.com/shreyaadani/leetcode_practice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/shreyaadani/leetcode_practice/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/shreyaadani/leetcode_practice/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/shreyaadani/leetcode_practice/tree/master/0071-simplify-path) |
 | [0131-palindrome-partitioning](https://github.com/shreyaadani/leetcode_practice/tree/master/0131-palindrome-partitioning) |
 | [0392-is-subsequence](https://github.com/shreyaadani/leetcode_practice/tree/master/0392-is-subsequence) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/shreyaadani/leetcode_practice/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -284,6 +285,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shreyaadani/leetcode_practice/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/shreyaadani/leetcode_practice/tree/master/0071-simplify-path) |
 ## Bracket Sequences
 |  |
 | ------- |
