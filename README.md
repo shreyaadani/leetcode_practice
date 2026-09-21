@@ -40,6 +40,7 @@
 | [0011-container-with-most-water](https://github.com/shreyaadani/leetcode_practice/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shreyaadani/leetcode_practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/shreyaadani/leetcode_practice/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/shreyaadani/leetcode_practice/tree/master/0125-valid-palindrome) |
 | [0253-meeting-rooms-ii](https://github.com/shreyaadani/leetcode_practice/tree/master/0253-meeting-rooms-ii) |
 | [0392-is-subsequence](https://github.com/shreyaadani/leetcode_practice/tree/master/0392-is-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/shreyaadani/leetcode_practice/tree/master/1768-merge-strings-alternately) |
@@ -52,6 +53,7 @@
 | [0020-valid-parentheses](https://github.com/shreyaadani/leetcode_practice/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/shreyaadani/leetcode_practice/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/shreyaadani/leetcode_practice/tree/master/0071-simplify-path) |
+| [0125-valid-palindrome](https://github.com/shreyaadani/leetcode_practice/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/shreyaadani/leetcode_practice/tree/master/0131-palindrome-partitioning) |
 | [0392-is-subsequence](https://github.com/shreyaadani/leetcode_practice/tree/master/0392-is-subsequence) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/shreyaadani/leetcode_practice/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
