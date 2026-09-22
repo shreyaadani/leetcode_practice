@@ -111,6 +111,7 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shreyaadani/leetcode_practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/shreyaadani/leetcode_practice/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/shreyaadani/leetcode_practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shreyaadani/leetcode_practice/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -128,12 +129,14 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shreyaadani/leetcode_practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/shreyaadani/leetcode_practice/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/shreyaadani/leetcode_practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shreyaadani/leetcode_practice/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shreyaadani/leetcode_practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/shreyaadani/leetcode_practice/tree/master/0098-validate-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shreyaadani/leetcode_practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/shreyaadani/leetcode_practice/tree/master/0130-surrounded-regions) |
@@ -288,6 +291,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/shreyaadani/leetcode_practice/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/shreyaadani/leetcode_practice/tree/master/0071-simplify-path) |
+| [0094-binary-tree-inorder-traversal](https://github.com/shreyaadani/leetcode_practice/tree/master/0094-binary-tree-inorder-traversal) |
 ## Bracket Sequences
 |  |
 | ------- |
