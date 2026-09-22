@@ -116,6 +116,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/shreyaadani/leetcode_practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/shreyaadani/leetcode_practice/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/shreyaadani/leetcode_practice/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/shreyaadani/leetcode_practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shreyaadani/leetcode_practice/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Breadth-First Search
 |  |
@@ -137,6 +138,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/shreyaadani/leetcode_practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/shreyaadani/leetcode_practice/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/shreyaadani/leetcode_practice/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/shreyaadani/leetcode_practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shreyaadani/leetcode_practice/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Depth-First Search
 |  |
@@ -145,6 +147,7 @@
 | [0098-validate-binary-search-tree](https://github.com/shreyaadani/leetcode_practice/tree/master/0098-validate-binary-search-tree) |
 | [0112-path-sum](https://github.com/shreyaadani/leetcode_practice/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/shreyaadani/leetcode_practice/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/shreyaadani/leetcode_practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shreyaadani/leetcode_practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/shreyaadani/leetcode_practice/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/shreyaadani/leetcode_practice/tree/master/0133-clone-graph) |
@@ -177,6 +180,7 @@
 | [0002-add-two-numbers](https://github.com/shreyaadani/leetcode_practice/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/shreyaadani/leetcode_practice/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/shreyaadani/leetcode_practice/tree/master/0023-merge-k-sorted-lists) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/shreyaadani/leetcode_practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/shreyaadani/leetcode_practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/shreyaadani/leetcode_practice/tree/master/0146-lru-cache) |
 | [0328-odd-even-linked-list](https://github.com/shreyaadani/leetcode_practice/tree/master/0328-odd-even-linked-list) |
@@ -300,6 +304,7 @@
 | [0020-valid-parentheses](https://github.com/shreyaadani/leetcode_practice/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/shreyaadani/leetcode_practice/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/shreyaadani/leetcode_practice/tree/master/0094-binary-tree-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/shreyaadani/leetcode_practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Bracket Sequences
 |  |
 | ------- |
