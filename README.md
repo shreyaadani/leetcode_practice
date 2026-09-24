@@ -32,6 +32,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shreyaadani/leetcode_practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1052-grumpy-bookstore-owner](https://github.com/shreyaadani/leetcode_practice/tree/master/1052-grumpy-bookstore-owner) |
 | [2239-find-closest-number-to-zero](https://github.com/shreyaadani/leetcode_practice/tree/master/2239-find-closest-number-to-zero) |
+| [2358-maximum-number-of-groups-entering-a-competition](https://github.com/shreyaadani/leetcode_practice/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/shreyaadani/leetcode_practice/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 ## Two Pointers
 |  |
@@ -108,6 +109,7 @@
 | [0410-split-array-largest-sum](https://github.com/shreyaadani/leetcode_practice/tree/master/0410-split-array-largest-sum) |
 | [0875-koko-eating-bananas](https://github.com/shreyaadani/leetcode_practice/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shreyaadani/leetcode_practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [2358-maximum-number-of-groups-entering-a-competition](https://github.com/shreyaadani/leetcode_practice/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 ## Tree
 |  |
 | ------- |
@@ -199,6 +201,7 @@
 | [0253-meeting-rooms-ii](https://github.com/shreyaadani/leetcode_practice/tree/master/0253-meeting-rooms-ii) |
 | [0410-split-array-largest-sum](https://github.com/shreyaadani/leetcode_practice/tree/master/0410-split-array-largest-sum) |
 | [0767-reorganize-string](https://github.com/shreyaadani/leetcode_practice/tree/master/0767-reorganize-string) |
+| [2358-maximum-number-of-groups-entering-a-competition](https://github.com/shreyaadani/leetcode_practice/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/shreyaadani/leetcode_practice/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 ## Sorting
 |  |
@@ -220,6 +223,7 @@
 | [0002-add-two-numbers](https://github.com/shreyaadani/leetcode_practice/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/shreyaadani/leetcode_practice/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/shreyaadani/leetcode_practice/tree/master/0070-climbing-stairs) |
+| [2358-maximum-number-of-groups-entering-a-competition](https://github.com/shreyaadani/leetcode_practice/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 ## Recursion
 |  |
 | ------- |
