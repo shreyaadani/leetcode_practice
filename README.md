@@ -11,6 +11,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shreyaadani/leetcode_practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shreyaadani/leetcode_practice/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shreyaadani/leetcode_practice/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/shreyaadani/leetcode_practice/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/shreyaadani/leetcode_practice/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/shreyaadani/leetcode_practice/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/shreyaadani/leetcode_practice/tree/master/0056-merge-intervals) |
@@ -109,6 +110,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shreyaadani/leetcode_practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shreyaadani/leetcode_practice/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/shreyaadani/leetcode_practice/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shreyaadani/leetcode_practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/shreyaadani/leetcode_practice/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/shreyaadani/leetcode_practice/tree/master/0410-split-array-largest-sum) |
