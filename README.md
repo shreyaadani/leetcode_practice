@@ -63,6 +63,7 @@
 | [0071-simplify-path](https://github.com/shreyaadani/leetcode_practice/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/shreyaadani/leetcode_practice/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/shreyaadani/leetcode_practice/tree/master/0131-palindrome-partitioning) |
+| [0242-valid-anagram](https://github.com/shreyaadani/leetcode_practice/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/shreyaadani/leetcode_practice/tree/master/0392-is-subsequence) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/shreyaadani/leetcode_practice/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0767-reorganize-string](https://github.com/shreyaadani/leetcode_practice/tree/master/0767-reorganize-string) |
@@ -94,6 +95,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/shreyaadani/leetcode_practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/shreyaadani/leetcode_practice/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/shreyaadani/leetcode_practice/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/shreyaadani/leetcode_practice/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/shreyaadani/leetcode_practice/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/shreyaadani/leetcode_practice/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0560-subarray-sum-equals-k](https://github.com/shreyaadani/leetcode_practice/tree/master/0560-subarray-sum-equals-k) |
@@ -220,6 +222,7 @@
 | [0056-merge-intervals](https://github.com/shreyaadani/leetcode_practice/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/shreyaadani/leetcode_practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/shreyaadani/leetcode_practice/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/shreyaadani/leetcode_practice/tree/master/0242-valid-anagram) |
 | [0253-meeting-rooms-ii](https://github.com/shreyaadani/leetcode_practice/tree/master/0253-meeting-rooms-ii) |
 | [0347-top-k-frequent-elements](https://github.com/shreyaadani/leetcode_practice/tree/master/0347-top-k-frequent-elements) |
 | [0767-reorganize-string](https://github.com/shreyaadani/leetcode_practice/tree/master/0767-reorganize-string) |
