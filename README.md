@@ -22,6 +22,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shreyaadani/leetcode_practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/shreyaadani/leetcode_practice/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/shreyaadani/leetcode_practice/tree/master/0200-number-of-islands) |
+| [0238-product-of-array-except-self](https://github.com/shreyaadani/leetcode_practice/tree/master/0238-product-of-array-except-self) |
 | [0253-meeting-rooms-ii](https://github.com/shreyaadani/leetcode_practice/tree/master/0253-meeting-rooms-ii) |
 | [0283-move-zeroes](https://github.com/shreyaadani/leetcode_practice/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/shreyaadani/leetcode_practice/tree/master/0300-longest-increasing-subsequence) |
@@ -303,6 +304,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/shreyaadani/leetcode_practice/tree/master/0238-product-of-array-except-self) |
 | [0253-meeting-rooms-ii](https://github.com/shreyaadani/leetcode_practice/tree/master/0253-meeting-rooms-ii) |
 | [0410-split-array-largest-sum](https://github.com/shreyaadani/leetcode_practice/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/shreyaadani/leetcode_practice/tree/master/0560-subarray-sum-equals-k) |
