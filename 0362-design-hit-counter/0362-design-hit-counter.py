@@ -1,27 +1,27 @@
 class HitCounter:
 
     def __init__(self):
-        self.hits = []
+        self.hits = [0]*300
+        self.count = [0]*300
         
 
     def hit(self, timestamp: int) -> None:
-        self.hits.append(timestamp)
+        idx = timestamp % 300
+        if self.hits[idx] != timestamp:
+            self.hits[idx] = timestamp
+            self.count[idx] = 1
+        else:
+            self.count[idx]+=1    
         
 
     def getHits(self, timestamp: int) -> int:
-        l , r = 0, len(self.hits)-1
-        target = timestamp - 300
+        totalhits = 0
+        for i in range(300):
+            if timestamp - self.hits[i] < 300:
+                totalhits+= self.count[i]
 
-        while l<=r:
-            mid = (l+r) // 2
+        return totalhits        
 
-            if self.hits[mid] <= target:
-                l = mid + 1
-            else:
-                r = mid - 1
-
-        return len(self.hits) - l            
-        
 
 
 # Your HitCounter object will be instantiated and called as such:
