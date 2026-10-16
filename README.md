@@ -147,6 +147,7 @@
 | [0133-clone-graph](https://github.com/shreyaadani/leetcode_practice/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/shreyaadani/leetcode_practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/shreyaadani/leetcode_practice/tree/master/0207-course-schedule) |
+| [0261-graph-valid-tree](https://github.com/shreyaadani/leetcode_practice/tree/master/0261-graph-valid-tree) |
 | [0547-number-of-provinces](https://github.com/shreyaadani/leetcode_practice/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/shreyaadani/leetcode_practice/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/shreyaadani/leetcode_practice/tree/master/0994-rotting-oranges) |
@@ -173,6 +174,7 @@
 | [0133-clone-graph](https://github.com/shreyaadani/leetcode_practice/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/shreyaadani/leetcode_practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/shreyaadani/leetcode_practice/tree/master/0207-course-schedule) |
+| [0261-graph-valid-tree](https://github.com/shreyaadani/leetcode_practice/tree/master/0261-graph-valid-tree) |
 | [0547-number-of-provinces](https://github.com/shreyaadani/leetcode_practice/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/shreyaadani/leetcode_practice/tree/master/0733-flood-fill) |
 ## Union-Find
@@ -180,12 +182,14 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/shreyaadani/leetcode_practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shreyaadani/leetcode_practice/tree/master/0200-number-of-islands) |
+| [0261-graph-valid-tree](https://github.com/shreyaadani/leetcode_practice/tree/master/0261-graph-valid-tree) |
 | [0547-number-of-provinces](https://github.com/shreyaadani/leetcode_practice/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/shreyaadani/leetcode_practice/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/shreyaadani/leetcode_practice/tree/master/0207-course-schedule) |
+| [0261-graph-valid-tree](https://github.com/shreyaadani/leetcode_practice/tree/master/0261-graph-valid-tree) |
 | [0547-number-of-provinces](https://github.com/shreyaadani/leetcode_practice/tree/master/0547-number-of-provinces) |
 ## Matrix
 |  |
