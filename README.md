@@ -38,6 +38,7 @@
 | [0994-rotting-oranges](https://github.com/shreyaadani/leetcode_practice/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shreyaadani/leetcode_practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1052-grumpy-bookstore-owner](https://github.com/shreyaadani/leetcode_practice/tree/master/1052-grumpy-bookstore-owner) |
+| [1429-first-unique-number](https://github.com/shreyaadani/leetcode_practice/tree/master/1429-first-unique-number) |
 | [2239-find-closest-number-to-zero](https://github.com/shreyaadani/leetcode_practice/tree/master/2239-find-closest-number-to-zero) |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/shreyaadani/leetcode_practice/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/shreyaadani/leetcode_practice/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
@@ -107,6 +108,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/shreyaadani/leetcode_practice/tree/master/0560-subarray-sum-equals-k) |
 | [0767-reorganize-string](https://github.com/shreyaadani/leetcode_practice/tree/master/0767-reorganize-string) |
 | [0904-fruit-into-baskets](https://github.com/shreyaadani/leetcode_practice/tree/master/0904-fruit-into-baskets) |
+| [1429-first-unique-number](https://github.com/shreyaadani/leetcode_practice/tree/master/1429-first-unique-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -215,6 +217,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/shreyaadani/leetcode_practice/tree/master/0146-lru-cache) |
 | [0362-design-hit-counter](https://github.com/shreyaadani/leetcode_practice/tree/master/0362-design-hit-counter) |
+| [1429-first-unique-number](https://github.com/shreyaadani/leetcode_practice/tree/master/1429-first-unique-number) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -347,8 +350,10 @@
 |  |
 | ------- |
 | [0362-design-hit-counter](https://github.com/shreyaadani/leetcode_practice/tree/master/0362-design-hit-counter) |
+| [1429-first-unique-number](https://github.com/shreyaadani/leetcode_practice/tree/master/1429-first-unique-number) |
 ## Data Stream
 |  |
 | ------- |
 | [0362-design-hit-counter](https://github.com/shreyaadani/leetcode_practice/tree/master/0362-design-hit-counter) |
+| [1429-first-unique-number](https://github.com/shreyaadani/leetcode_practice/tree/master/1429-first-unique-number) |
 <!---LeetCode Topics End-->
