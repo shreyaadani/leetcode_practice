@@ -68,6 +68,7 @@
 | [0125-valid-palindrome](https://github.com/shreyaadani/leetcode_practice/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/shreyaadani/leetcode_practice/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/shreyaadani/leetcode_practice/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/shreyaadani/leetcode_practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/shreyaadani/leetcode_practice/tree/master/0392-is-subsequence) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/shreyaadani/leetcode_practice/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/shreyaadani/leetcode_practice/tree/master/0424-longest-repeating-character-replacement) |
@@ -103,6 +104,7 @@
 | [0219-contains-duplicate-ii](https://github.com/shreyaadani/leetcode_practice/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/shreyaadani/leetcode_practice/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/shreyaadani/leetcode_practice/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/shreyaadani/leetcode_practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/shreyaadani/leetcode_practice/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/shreyaadani/leetcode_practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/shreyaadani/leetcode_practice/tree/master/0560-subarray-sum-equals-k) |
@@ -281,6 +283,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/shreyaadani/leetcode_practice/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/shreyaadani/leetcode_practice/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/shreyaadani/leetcode_practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0767-reorganize-string](https://github.com/shreyaadani/leetcode_practice/tree/master/0767-reorganize-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -350,6 +353,7 @@
 |  |
 | ------- |
 | [0362-design-hit-counter](https://github.com/shreyaadani/leetcode_practice/tree/master/0362-design-hit-counter) |
+| [0387-first-unique-character-in-a-string](https://github.com/shreyaadani/leetcode_practice/tree/master/0387-first-unique-character-in-a-string) |
 | [1429-first-unique-number](https://github.com/shreyaadani/leetcode_practice/tree/master/1429-first-unique-number) |
 ## Data Stream
 |  |
