@@ -150,6 +150,7 @@
 | [0113-path-sum-ii](https://github.com/shreyaadani/leetcode_practice/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shreyaadani/leetcode_practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shreyaadani/leetcode_practice/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shreyaadani/leetcode_practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/shreyaadani/leetcode_practice/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/shreyaadani/leetcode_practice/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Breadth-First Search
@@ -177,6 +178,7 @@
 | [0113-path-sum-ii](https://github.com/shreyaadani/leetcode_practice/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shreyaadani/leetcode_practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shreyaadani/leetcode_practice/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shreyaadani/leetcode_practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/shreyaadani/leetcode_practice/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/shreyaadani/leetcode_practice/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
@@ -193,6 +195,7 @@
 | [0133-clone-graph](https://github.com/shreyaadani/leetcode_practice/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/shreyaadani/leetcode_practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/shreyaadani/leetcode_practice/tree/master/0207-course-schedule) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shreyaadani/leetcode_practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0261-graph-valid-tree](https://github.com/shreyaadani/leetcode_practice/tree/master/0261-graph-valid-tree) |
 | [0547-number-of-provinces](https://github.com/shreyaadani/leetcode_practice/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/shreyaadani/leetcode_practice/tree/master/0733-flood-fill) |
@@ -380,4 +383,12 @@
 | ------- |
 | [0362-design-hit-counter](https://github.com/shreyaadani/leetcode_practice/tree/master/0362-design-hit-counter) |
 | [1429-first-unique-number](https://github.com/shreyaadani/leetcode_practice/tree/master/1429-first-unique-number) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shreyaadani/leetcode_practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shreyaadani/leetcode_practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
