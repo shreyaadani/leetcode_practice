@@ -30,7 +30,7 @@ class TimeMap:
                 r = mid 
 
 
-        return "" if r == 0 else self.map[key][r-1][1]                 
+        return "" if r == 0 else self.map[key][r-1][1]           
         
 
 
