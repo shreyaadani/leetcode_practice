@@ -31,6 +31,7 @@
 | [0362-design-hit-counter](https://github.com/shreyaadani/leetcode_practice/tree/master/0362-design-hit-counter) |
 | [0410-split-array-largest-sum](https://github.com/shreyaadani/leetcode_practice/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/shreyaadani/leetcode_practice/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/shreyaadani/leetcode_practice/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/shreyaadani/leetcode_practice/tree/master/0643-maximum-average-subarray-i) |
 | [0733-flood-fill](https://github.com/shreyaadani/leetcode_practice/tree/master/0733-flood-fill) |
 | [0875-koko-eating-bananas](https://github.com/shreyaadani/leetcode_practice/tree/master/0875-koko-eating-bananas) |
@@ -111,6 +112,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/shreyaadani/leetcode_practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/shreyaadani/leetcode_practice/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/shreyaadani/leetcode_practice/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/shreyaadani/leetcode_practice/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/shreyaadani/leetcode_practice/tree/master/0767-reorganize-string) |
 | [0904-fruit-into-baskets](https://github.com/shreyaadani/leetcode_practice/tree/master/0904-fruit-into-baskets) |
 | [0981-time-based-key-value-store](https://github.com/shreyaadani/leetcode_practice/tree/master/0981-time-based-key-value-store) |
@@ -251,6 +253,7 @@
 | [0134-gas-station](https://github.com/shreyaadani/leetcode_practice/tree/master/0134-gas-station) |
 | [0253-meeting-rooms-ii](https://github.com/shreyaadani/leetcode_practice/tree/master/0253-meeting-rooms-ii) |
 | [0410-split-array-largest-sum](https://github.com/shreyaadani/leetcode_practice/tree/master/0410-split-array-largest-sum) |
+| [0621-task-scheduler](https://github.com/shreyaadani/leetcode_practice/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/shreyaadani/leetcode_practice/tree/master/0767-reorganize-string) |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/shreyaadani/leetcode_practice/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/shreyaadani/leetcode_practice/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
@@ -265,6 +268,7 @@
 | [0253-meeting-rooms-ii](https://github.com/shreyaadani/leetcode_practice/tree/master/0253-meeting-rooms-ii) |
 | [0347-top-k-frequent-elements](https://github.com/shreyaadani/leetcode_practice/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/shreyaadani/leetcode_practice/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/shreyaadani/leetcode_practice/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/shreyaadani/leetcode_practice/tree/master/0767-reorganize-string) |
 ## Quicksort
 |  |
@@ -306,6 +310,7 @@
 | [0347-top-k-frequent-elements](https://github.com/shreyaadani/leetcode_practice/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/shreyaadani/leetcode_practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/shreyaadani/leetcode_practice/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/shreyaadani/leetcode_practice/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/shreyaadani/leetcode_practice/tree/master/0767-reorganize-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -318,6 +323,7 @@
 | [0253-meeting-rooms-ii](https://github.com/shreyaadani/leetcode_practice/tree/master/0253-meeting-rooms-ii) |
 | [0347-top-k-frequent-elements](https://github.com/shreyaadani/leetcode_practice/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/shreyaadani/leetcode_practice/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/shreyaadani/leetcode_practice/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/shreyaadani/leetcode_practice/tree/master/0767-reorganize-string) |
 ## Merge Sort
 |  |
