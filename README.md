@@ -29,6 +29,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/shreyaadani/leetcode_practice/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/shreyaadani/leetcode_practice/tree/master/0347-top-k-frequent-elements) |
 | [0362-design-hit-counter](https://github.com/shreyaadani/leetcode_practice/tree/master/0362-design-hit-counter) |
+| [0380-insert-delete-getrandom-o1](https://github.com/shreyaadani/leetcode_practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0410-split-array-largest-sum](https://github.com/shreyaadani/leetcode_practice/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/shreyaadani/leetcode_practice/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/shreyaadani/leetcode_practice/tree/master/0621-task-scheduler) |
@@ -110,6 +111,7 @@
 | [0219-contains-duplicate-ii](https://github.com/shreyaadani/leetcode_practice/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/shreyaadani/leetcode_practice/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/shreyaadani/leetcode_practice/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/shreyaadani/leetcode_practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0387-first-unique-character-in-a-string](https://github.com/shreyaadani/leetcode_practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/shreyaadani/leetcode_practice/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/shreyaadani/leetcode_practice/tree/master/0424-longest-repeating-character-replacement) |
@@ -244,6 +246,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/shreyaadani/leetcode_practice/tree/master/0146-lru-cache) |
 | [0362-design-hit-counter](https://github.com/shreyaadani/leetcode_practice/tree/master/0362-design-hit-counter) |
+| [0380-insert-delete-getrandom-o1](https://github.com/shreyaadani/leetcode_practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0981-time-based-key-value-store](https://github.com/shreyaadani/leetcode_practice/tree/master/0981-time-based-key-value-store) |
 | [1429-first-unique-number](https://github.com/shreyaadani/leetcode_practice/tree/master/1429-first-unique-number) |
 ## Doubly-Linked List
@@ -285,6 +288,7 @@
 | [0002-add-two-numbers](https://github.com/shreyaadani/leetcode_practice/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/shreyaadani/leetcode_practice/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/shreyaadani/leetcode_practice/tree/master/0070-climbing-stairs) |
+| [0380-insert-delete-getrandom-o1](https://github.com/shreyaadani/leetcode_practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/shreyaadani/leetcode_practice/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 ## Recursion
 |  |
@@ -409,4 +413,8 @@
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shreyaadani/leetcode_practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/shreyaadani/leetcode_practice/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
