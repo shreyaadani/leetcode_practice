@@ -15,6 +15,7 @@
 | [0049-group-anagrams](https://github.com/shreyaadani/leetcode_practice/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/shreyaadani/leetcode_practice/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/shreyaadani/leetcode_practice/tree/master/0056-merge-intervals) |
+| [0079-word-search](https://github.com/shreyaadani/leetcode_practice/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/shreyaadani/leetcode_practice/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreyaadani/leetcode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/shreyaadani/leetcode_practice/tree/master/0130-surrounded-regions) |
@@ -68,6 +69,7 @@
 | [0022-generate-parentheses](https://github.com/shreyaadani/leetcode_practice/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/shreyaadani/leetcode_practice/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/shreyaadani/leetcode_practice/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/shreyaadani/leetcode_practice/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/shreyaadani/leetcode_practice/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/shreyaadani/leetcode_practice/tree/master/0131-palindrome-partitioning) |
 | [0208-implement-trie-prefix-tree](https://github.com/shreyaadani/leetcode_practice/tree/master/0208-implement-trie-prefix-tree) |
@@ -197,6 +199,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/shreyaadani/leetcode_practice/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/shreyaadani/leetcode_practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/shreyaadani/leetcode_practice/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shreyaadani/leetcode_practice/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -230,6 +233,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/shreyaadani/leetcode_practice/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/shreyaadani/leetcode_practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shreyaadani/leetcode_practice/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/shreyaadani/leetcode_practice/tree/master/0733-flood-fill) |
@@ -384,6 +388,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/shreyaadani/leetcode_practice/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/shreyaadani/leetcode_practice/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/shreyaadani/leetcode_practice/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/shreyaadani/leetcode_practice/tree/master/0131-palindrome-partitioning) |
 ## Stack
