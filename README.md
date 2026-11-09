@@ -70,6 +70,7 @@
 | [0071-simplify-path](https://github.com/shreyaadani/leetcode_practice/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/shreyaadani/leetcode_practice/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/shreyaadani/leetcode_practice/tree/master/0131-palindrome-partitioning) |
+| [0208-implement-trie-prefix-tree](https://github.com/shreyaadani/leetcode_practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/shreyaadani/leetcode_practice/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/shreyaadani/leetcode_practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/shreyaadani/leetcode_practice/tree/master/0392-is-subsequence) |
@@ -97,6 +98,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shreyaadani/leetcode_practice/tree/master/0014-longest-common-prefix) |
+| [0208-implement-trie-prefix-tree](https://github.com/shreyaadani/leetcode_practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0692-top-k-frequent-words](https://github.com/shreyaadani/leetcode_practice/tree/master/0692-top-k-frequent-words) |
 ## Hash Table
 |  |
@@ -108,6 +110,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/shreyaadani/leetcode_practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/shreyaadani/leetcode_practice/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/shreyaadani/leetcode_practice/tree/master/0169-majority-element) |
+| [0208-implement-trie-prefix-tree](https://github.com/shreyaadani/leetcode_practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/shreyaadani/leetcode_practice/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/shreyaadani/leetcode_practice/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/shreyaadani/leetcode_practice/tree/master/0347-top-k-frequent-elements) |
@@ -245,6 +248,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/shreyaadani/leetcode_practice/tree/master/0146-lru-cache) |
+| [0208-implement-trie-prefix-tree](https://github.com/shreyaadani/leetcode_practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0362-design-hit-counter](https://github.com/shreyaadani/leetcode_practice/tree/master/0362-design-hit-counter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/shreyaadani/leetcode_practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0981-time-based-key-value-store](https://github.com/shreyaadani/leetcode_practice/tree/master/0981-time-based-key-value-store) |
