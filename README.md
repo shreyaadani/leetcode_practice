@@ -37,6 +37,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/shreyaadani/leetcode_practice/tree/master/0643-maximum-average-subarray-i) |
 | [0692-top-k-frequent-words](https://github.com/shreyaadani/leetcode_practice/tree/master/0692-top-k-frequent-words) |
 | [0733-flood-fill](https://github.com/shreyaadani/leetcode_practice/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/shreyaadani/leetcode_practice/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/shreyaadani/leetcode_practice/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/shreyaadani/leetcode_practice/tree/master/0904-fruit-into-baskets) |
 | [0994-rotting-oranges](https://github.com/shreyaadani/leetcode_practice/tree/master/0994-rotting-oranges) |
@@ -398,6 +399,7 @@
 | [0071-simplify-path](https://github.com/shreyaadani/leetcode_practice/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/shreyaadani/leetcode_practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shreyaadani/leetcode_practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0739-daily-temperatures](https://github.com/shreyaadani/leetcode_practice/tree/master/0739-daily-temperatures) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -426,4 +428,8 @@
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/shreyaadani/leetcode_practice/tree/master/0380-insert-delete-getrandom-o1) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/shreyaadani/leetcode_practice/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
